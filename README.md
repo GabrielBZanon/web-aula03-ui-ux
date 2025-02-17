@@ -5,7 +5,7 @@ Desafios de PFE
 
 Este repositório contém uma série de exercícios de **desenvolvimento front-end**, abordando conceitos fundamentais de **HTML, CSS e JavaScript**. O objetivo é aprimorar habilidades na criação de interfaces responsivas e interativas para a web.
 
-## ✨ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **HTML5**: Estrutura do conteúdo.
 - **CSS3**: Estilização e responsividade.
 - **JavaScript (ES6+)**: Manipulação do DOM e interatividade.
@@ -30,7 +30,7 @@ Este exercício tem como objetivo **exibir produtos a partir de um arquivo JSON*
 |-- README.md      # Documentação do repositório
 ```
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
@@ -41,7 +41,7 @@ Este exercício tem como objetivo **exibir produtos a partir de um arquivo JSON*
    ```
 3. Abra o arquivo `index.html` no navegador.
 
-## 📊 Melhorias Futuras
+## Melhorias Futuras
 - Adicionar funcionalidade de **filtragem por categoria**.
 - Implementar um **modo escuro** para melhor experiência do usuário.
 - Criar uma **página de detalhes do produto**.
