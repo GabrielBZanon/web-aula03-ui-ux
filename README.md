@@ -10,17 +10,17 @@ Este repositório contém uma série de exercícios de **desenvolvimento front-e
 - **CSS3**: Estilização e responsividade.
 - **JavaScript (ES6+)**: Manipulação do DOM e interatividade.
 
-## 🔧 Exercício Atual: Exibição de Produtos
+## Exercício Atual: Exibição de Produtos
 
 Este exercício tem como objetivo **exibir produtos a partir de um arquivo JSON** e permitir ao usuário alternar entre os modos de exibição "Cards" e "Lista".
 
-### 📝 Funcionalidades
+### Funcionalidades
 - Exibição dos produtos em **cards**.
 - Exibição dos produtos em **lista**.
 - Alternação dinâmica entre os modos de exibição.
 - Estilização responsiva para diferentes tamanhos de tela.
 
-### 📖 Estrutura do Projeto
+### Estrutura do Projeto
 ```
 /
 |-- index.html     # Página principal
@@ -47,6 +47,6 @@ Este exercício tem como objetivo **exibir produtos a partir de um arquivo JSON*
 - Criar uma **página de detalhes do produto**.
 
 ---
-👨‍💻 **Desenvolvido por:** Gabriel B. Zanon
+**Desenvolvido por:** Gabriel B. Zanon
 
 
